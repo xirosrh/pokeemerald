@@ -1,36 +1,13 @@
-# Pokémon Emerald
+# Empezando en el ROM Hacking
 
-[![Build Status][travis-badge]][travis]
+¡Bienvenido a este fantástico mundo del ROM Hacking de Pokémon!
 
-[travis]: https://travis-ci.org/pret/pokeemerald
-[travis-badge]: https://travis-ci.org/pret/pokeemerald.svg?branch=master
+Este tutorial te introduce a los conceptos básicos y esenciales para crear tu propio hack-rom utilizando como base el proyecto pokeemerald provisto por pret. Para esto, se brinda un paso a paso para realizar diversas modificaciones a Villa Raíz de Pokémon Esmeralda, que involucran el cambio de mapeado, de gráficos, de los overworlds y la creación de eventos.
 
-This is a decompilation of Pokémon Emerald.
+Este tutorial asume que ya tienes configurado correctamente el proyecto de pokeemerald en tu computadora. Si aún no lo has hecho, no te preocupes, porque aquí te dejamos diversos enlaces que te guiarán en la configuración y te proveeran distintas alternativas dependiendo de los requerimientos de tu computadora. Cada uno de los siguientes tutoriales muestran una alternativa de como dejar completamente configurado pokeemerald para poder iniciar tu proyecto:
 
-It builds the following ROM:
-
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
-
-To set up the repository, see [INSTALL.md](INSTALL.md).
-
-
-## See also
-
-Other disassembly and/or decompilation projects:
-* [**Pokémon Red and Blue**](https://github.com/pret/pokered)
-* [**Pokémon Gold and Silver (Space World '97 demo)**](https://github.com/pret/pokegold-spaceworld)
-* [**Pokémon Yellow**](https://github.com/pret/pokeyellow)
-* [**Pokémon Trading Card Game**](https://github.com/pret/poketcg)
-* [**Pokémon Pinball**](https://github.com/pret/pokepinball)
-* [**Pokémon Stadium**](https://github.com/pret/pokestadium)
-* [**Pokémon Gold and Silver**](https://github.com/pret/pokegold)
-* [**Pokémon Crystal**](https://github.com/pret/pokecrystal)
-* [**Pokémon Ruby and Sapphire**](https://github.com/pret/pokeruby)
-* [**Pokémon Pinball: Ruby & Sapphire**](https://github.com/pret/pokepinballrs)
-* [**Pokémon FireRed and LeafGreen**](https://github.com/pret/pokefirered)
-* [**Pokémon Mystery Dungeon: Red Rescue Team**](https://github.com/pret/pmd-red)
-
-
-## Contacts
-
-You can find us on [Discord](https://discord.gg/d5dubZ3) and [IRC](https://kiwiirc.com/client/irc.freenode.net/?#pret).
+* [**[Win10] Decomp desde cero! Compilando nuestra ROM y configurando VSCode - Creado por Jaizu**](https://whackahack.com/foro/threads/win10-decomp-desde-cero-compilando-nuestra-rom-y-configurando-vscode.63837/)
+* [**Videotutorial #0-Instalación de Guía Básica de Decompilación - Creado por Samu**](https://whackahack.com/foro/threads/guia-basica-de-decompilacion.64702/)
+* [**Cómo compilar proyectos de decompilación en un PC 32 bits - Creado por Rubire4**](https://whackahack.com/foro/threads/como-compilar-proyectos-de-decompilacion-en-un-pc-32-bits.63349/)
+* [**Compilando los Proyectos de Desensamblaje y Decompilación (Pokeruby/firered/emerald) con Cygwin (64 Bits) - Creado por Lunos**](https://whackahack.com/foro/threads/compilando-los-proyectos-de-desensamblaje-y-decompilacion-pokeruby-firered-emerald-con-cygwin-64-bits.56568/)
+* [**DPE | ¡Máquina virtual para compilar Pokeemerald fácilmente! - Creado por Helix Boo](https://whackahack.com/foro/threads/dpe-maquina-virtual-para-compilar-pokeemerald-facilmente.64406/)
