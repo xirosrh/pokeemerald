@@ -10,4 +10,4 @@ Este tutorial asume que ya tienes configurado correctamente el proyecto de pokee
 * [**Videotutorial #0-Instalación de Guía Básica de Decompilación - Creado por Samu**](https://whackahack.com/foro/threads/guia-basica-de-decompilacion.64702/)
 * [**Cómo compilar proyectos de decompilación en un PC 32 bits - Creado por Rubire4**](https://whackahack.com/foro/threads/como-compilar-proyectos-de-decompilacion-en-un-pc-32-bits.63349/)
 * [**Compilando los Proyectos de Desensamblaje y Decompilación (Pokeruby/firered/emerald) con Cygwin (64 Bits) - Creado por Lunos**](https://whackahack.com/foro/threads/compilando-los-proyectos-de-desensamblaje-y-decompilacion-pokeruby-firered-emerald-con-cygwin-64-bits.56568/)
-* [**DPE | ¡Máquina virtual para compilar Pokeemerald fácilmente! - Creado por Helix Boo](https://whackahack.com/foro/threads/dpe-maquina-virtual-para-compilar-pokeemerald-facilmente.64406/)
+* [**DPE | ¡Máquina virtual para compilar Pokeemerald fácilmente! - Creado por Helix Boo**](https://whackahack.com/foro/threads/dpe-maquina-virtual-para-compilar-pokeemerald-facilmente.64406/)
