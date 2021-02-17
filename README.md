@@ -13,3 +13,8 @@ Este tutorial asume que ya tienes configurado correctamente el proyecto de pokee
 * [**DPE | ¡Máquina virtual para compilar Pokeemerald fácilmente! - Creado por Helix Boo**](https://whackahack.com/foro/threads/dpe-maquina-virtual-para-compilar-pokeemerald-facilmente.64406/)
 
 Si no has podido configurar correctamente el proyecto o tienes alguna duda, no dudes en escribir en la [sección de dudas del foro](https://whackahack.com/foro/forums/decompilacion-y-desensamblaje.310/) o a través de [nuestro servidor de Discord](https://discord.gg/FrKadkb).
+
+¿Qué necesitaremos para poder seguir este tutorial?
+* El proyecto de pokeemerald configurado, como se mencionó anteriormente.
+* Porymap (herramienta que permite editar mapas, tilesets, regiones, entre otros): [Se puede descargar aquí](https://whackahack.com/descargas/herramientas-decompilacion/).
+
