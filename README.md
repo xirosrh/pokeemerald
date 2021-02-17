@@ -2,7 +2,7 @@
 
 ¡Bienvenido a este fantástico mundo del ROM Hacking de Pokémon!
 
-Este tutorial te introduce a los conceptos básicos y esenciales para crear tu propio hack-rom utilizando como base el proyecto pokeemerald provisto por pret. Para esto, se brinda un paso a paso para realizar diversas modificaciones a Villa Raíz de Pokémon Esmeralda, que involucran el cambio de mapeado, de gráficos, de los overworlds y la creación de eventos.
+Este tutorial te introduce a los conceptos básicos y esenciales para crear tu propio hack-rom utilizando como base el proyecto pokeemerald provisto por pret. Para esto, se brinda un paso a paso para realizar diversas modificaciones al pueblo Villa Raíz de Pokémon Esmeralda, que involucran cambios en el mapeado, de gráficos, de los overworlds y la creación de nuevos eventos.
 
 Este tutorial asume que ya tienes configurado correctamente el proyecto de pokeemerald en tu computadora. Si aún no lo has hecho, no te preocupes, porque aquí te dejamos diversos enlaces que te guiarán en la configuración y te proveeran distintas alternativas dependiendo de los requerimientos de tu computadora. Cada uno de los siguientes tutoriales muestran una alternativa de como dejar completamente configurado pokeemerald para poder iniciar tu proyecto:
 
