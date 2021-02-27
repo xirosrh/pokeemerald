@@ -17,4 +17,12 @@ Si no has podido configurar correctamente el proyecto o tienes alguna duda, no d
 ### ¿Qué necesitaremos para poder seguir este tutorial?
 * El proyecto de pokeemerald configurado, como se mencionó anteriormente.
 * Porymap (herramienta que permite editar mapas, tilesets, regiones, entre otros): [Se puede descargar aquí](https://whackahack.com/descargas/herramientas-decompilacion/).
+* Visual Studio Code o en su defecto un editor de texto cualquiera.
 
+
+## Parte 1 - Modificando el mapa de Villa Raíz
+
+Lo primero que vamos a hacer es realizar modificaciones a Villa Raíz. Para esto, utilizaremos la herramienta Porymap. Para poder utilizarla, se debe de abrir la herramienta y seleccionar la carpeta en la cual se encuentra el proyecto de pokeemerald. Si es la primera vez que abres dicho proyecto, te va a preguntar cual proyecto estás usando (pokeemerald, pokeruby o pokefirered). Debes seleccionar pokeemerald y continuar.
+
+Al cargarse el proyecto en porymap, veremos 3 secciones claramente diferenciables. A la izquierda, podemos ver un panel en el cual se encuentran "gMapGroups", que son agrupadores de mapas, y dentro de cada agrupador podemos ver distintos mapas que se encuentran en la ROM. A modo de ejemplo, en el gMapGroup0 encontramos las distintas ciudades, pueblos y rutas.
+En el panel del medio podemos observar a un mapa cargado y listo para editar. En primera instancia se puede ver a Petalburg City (Ciudad Petalia).
